@@ -1,21 +1,25 @@
 ## 프로젝트
 내 일주일 평점 남기기
 
+<br>
 
 ## 제작 기간
 2021년 11월 15일 ~ 18일, 총 작업기간 4일
 
+<br>
 
 ## 사용 기술
-React
-Styled Components
-Hook API
-AWS S3
+- React
+- Styled Components
+- Hook API
+- AWS S3
 
+<br>
 
 ## 웹사이트 링크
 -
 
+<br>
 
 
 # Getting Started with Create React App
